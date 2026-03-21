@@ -92,12 +92,12 @@ The assistant is specialized in South Asian cuisine, covering:
 ## Running the Project
 
 1. Install dependencies:
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
 2. Run notebooks in order:
-- '01_corpus_and_benchmark.ipynb
-- 02_rag_pipeline.ipynb
-- 03_evaluation.ipynb
+- `01_corpus_and_benchmark.ipynb`
+- `02_rag_pipeline.ipynb`
+- `03_evaluation.ipynb`
 
 ---
 
