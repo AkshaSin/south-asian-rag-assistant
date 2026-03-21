@@ -62,16 +62,20 @@ Results are aggregated and stored in `evaluation_results.json`.
 ---
 
 ## Project Structure
-01_corpus_and_benchmark.ipynb
-02_rag_pipeline.ipynb
-03_evaluation.ipynb
 
-background_corpus.json
-benchmark_dataset.json
-benchmark_input_only.json
+### Notebooks
+- `01_corpus_and_benchmark.ipynb`
+- `02_rag_pipeline.ipynb`
+- `03_evaluation.ipynb`
 
-test_outputs.json
-evaluation_results.json
+### Data
+- `background_corpus.json`
+- `benchmark_dataset.json`
+- `benchmark_input_only.json`
+
+### Outputs
+- `test_outputs.json`
+- `evaluation_results.json`
 
 ---
 
@@ -88,12 +92,12 @@ The assistant is specialized in South Asian cuisine, covering:
 ## Running the Project
 
 1. Install dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 2. Run notebooks in order:
-01_corpus_and_benchmark.ipynb
-02_rag_pipeline.ipynb
-03_evaluation.ipynb
+- '01_corpus_and_benchmark.ipynb
+- 02_rag_pipeline.ipynb
+- 03_evaluation.ipynb
 
 ---
 
@@ -101,3 +105,4 @@ pip install -r requirements.txt
 
 - Models are downloaded from HuggingFace on first run and cached locally  
 - Designed to run in both local and notebook environments  
+
