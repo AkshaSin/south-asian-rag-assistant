@@ -1,0 +1,56 @@
+{
+  "queries": [
+    {
+      "query_id": "sa_000",
+      "query": "What is biryani and which region is it originally associated with?"
+    },
+    {
+      "query_id": "sa_001",
+      "query": "What distinguishes Hyderabadi biryani from Lucknowi (Awadhi) biryani?"
+    },
+    {
+      "query_id": "sa_002",
+      "query": "What is the difference between naan and roti?"
+    },
+    {
+      "query_id": "sa_003",
+      "query": "How is dosa batter traditionally prepared?"
+    },
+    {
+      "query_id": "sa_004",
+      "query": "What ingredients are used in a classic samosa and how is it cooked?"
+    },
+    {
+      "query_id": "sa_005",
+      "query": "What is cardamom and what are the differences between green and black cardamom?"
+    },
+    {
+      "query_id": "sa_006",
+      "query": "How does Sri Lankan cuisine differ from South Indian cuisine?"
+    },
+    {
+      "query_id": "sa_007",
+      "query": "What is the difference between a curry and a masala?"
+    },
+    {
+      "query_id": "sa_008",
+      "query": "What are the key features of Pakistani cuisine compared to North Indian cuisine?"
+    },
+    {
+      "query_id": "sa_009",
+      "query": "What is butter chicken and where did it originate?"
+    },
+    {
+      "query_id": "sa_010",
+      "query": "How is tandoori chicken traditionally prepared?"
+    },
+    {
+      "query_id": "sa_011",
+      "query": "What is dal and why is it important in South Asian cuisine?"
+    },
+    {
+      "query_id": "sa_012",
+      "query": "What is the difference between biryani and pilaf?"
+    }
+  ]
+}
