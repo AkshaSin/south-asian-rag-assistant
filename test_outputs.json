@@ -3,224 +3,228 @@
     {
       "query_id": "sa_000",
       "query": "What is biryani and which region is it originally associated with?",
-      "response": "Biryani is a rice dish made with rice, spices, and usually meat, originating from South Asia.",
+      "response": "Biryani is a mixed rice dish originating in South Asia, traditionally made with rice, meat (chicken, goat, beef) or seafood (prawns or fish), vegetables, and spices. It was once associated with the region's Muslim population but is now a mainstream culinary staple embraced by every demographic.",
       "retrieved_context": [
         {
           "doc_id": "wiki_biryani",
-          "text": "[Introduction] Biryani is a rice dish made with rice, spices, and usually meat, although vegetarian versions also exist. It is one of the best-known dishes associated with South Asian cuisine."
+          "text": "[Introduction] at pilau was brought to India and biryani was developed from it before being adopted by the Mughals. Biryani is one of the most popular dishes in South Asia and among the South Asian diaspora. The dish was often associated with the region's Muslim population but is now a mainstream culinary staple embraced by every demographic. Similar dishes are prepared in many other countries, often with local variations, and often brought there by South Asian diaspora populations."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Regional forms] There are many regional varieties of biryani across the Indian subcontinent. The dish is popular in everyday dining as well as festivals and celebrations."
+          "text": "[Introduction] Biryani is a mixed rice dish originating in South Asia, traditionally made with rice, meat (chicken, goat, beef) or seafood (prawns or fish), vegetables, and spices. It was present in Mughal-era India, though the precise date and place of origin are debated. It is thought to derive from a Persian rice dish, either pilau or birinj biryan."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Preparation] Biryani is often prepared by layering rice with spiced ingredients and finishing the cooking together. Different styles vary in seasoning, assembly, and cooking technique."
+          "text": "[In the Indian subcontinent] There are many types of biryani in the Indian subcontinent. Biryani is the single most-ordered dish in Indian online food ordering and delivery services, and has been described as the most popular dish in India. The names of variants are often based on their region or city of origin. Some have taken the name of the shop that sells it, as in Fakhruddin Biriyani in Dhaka, Students biryani in Karachi, Lucky biryani in Bandra, Mumbai and Baghdadi biryani in Colaba, Mumbai."
         },
         {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
+          "doc_id": "wiki_hyderabadi_biryani",
+          "text": "[Origin] The exact origin of the dish is uncertain. Despite legends attributing it to the Nizam's chef, the biryani is of South Indian origin, derived from pilaf varieties brought to South Asia by Arab traders. Pulao may have been an army dish in medieval India. Armies would prepare a one-pot dish of rice with whichever meat was available. The distinction between \"pulao\" and \"biryani\" is arbitrary. Hyderabadi biryani incorporated Deccani or Telangana flavors of, perhaps in the Nizam's kitchen."
         },
         {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Babath] Babath or offal consists of the stomach of cattle or goats. It is cooked as a curry or deep fried and eaten with rice or more famously with Pittu. Its origins are associated with the Sri Lankan Malay community but it is very common among the Moors community as well. The preparation of babath also consists of Kodal or the intestines of the animal."
+          "doc_id": "wiki_biryani",
+          "text": "[In the Indian subcontinent] Students biryani in Karachi, Lucky biryani in Bandra, Mumbai and Baghdadi biryani in Colaba, Mumbai. Biryanis are often specific to the Muslim communities where they originate; they are usually the defining dishes of those communities. In 2009, the Deccani Biryani Makers Association submitted 'Hyderabadi Biryani' for a geographical indication, but the attempt failed as they were unable to provide documentary evidence of its historical origin."
         }
       ]
     },
     {
       "query_id": "sa_001",
       "query": "What distinguishes Hyderabadi biryani from Lucknowi (Awadhi) biryani?",
-      "response": "Hyderabadi biryani is typically served with more vegetables and is considered more sophisticated compared to Lucknowi (Awadhi) biryani.",
+      "response": "Hyderabadi biryani is distinguished from Lucknowi (Awadhi) biryani by its incorporation of Deccani or Telangana flavors into the dish.",
       "retrieved_context": [
         {
-          "doc_id": "wiki_biryani",
-          "text": "[Regional forms] There are many regional varieties of biryani across the Indian subcontinent. The dish is popular in everyday dining as well as festivals and celebrations."
+          "doc_id": "wiki_hyderabadi_biryani",
+          "text": "[Introduction] Hyderabadi biryani (also known as Hyderabadi dum biryani) is a style of biryani originating from Hyderabad, India made with basmati rice and meat (mostly goat meat). Originating in the kitchens of the Nizam of Hyderabad, it combines elements of Hyderabadi and Mughlai cuisines. Hyderabad biryani is a key dish in Hyderabadi cuisine and it is so famous that the dish is considered synonymous with the city of Hyderabad."
+        },
+        {
+          "doc_id": "wiki_hyderabadi_biryani",
+          "text": "[Origin] The exact origin of the dish is uncertain. Despite legends attributing it to the Nizam's chef, the biryani is of South Indian origin, derived from pilaf varieties brought to South Asia by Arab traders. Pulao may have been an army dish in medieval India. Armies would prepare a one-pot dish of rice with whichever meat was available. The distinction between \"pulao\" and \"biryani\" is arbitrary. Hyderabadi biryani incorporated Deccani or Telangana flavors of, perhaps in the Nizam's kitchen."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Preparation] Biryani is often prepared by layering rice with spiced ingredients and finishing the cooking together. Different styles vary in seasoning, assembly, and cooking technique."
-        },
-        {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
+          "text": "[Difference between biryani and pilau] oked longer, leaving the meat (and vegetables, if present) more tender, and the rice more flavoured. Biryani is cooked with additional dressings and often has a light layer of scorched rice at the bottom. The cookery author Pratibha Karan states that while the terms are often applied arbitrarily, the main distinction is that a biryani consists of two layers of rice with a layer of meat (and vegetables, if present) in the middle, while the pilau is not layered."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Introduction] Biryani is a rice dish made with rice, spices, and usually meat, although vegetarian versions also exist. It is one of the best-known dishes associated with South Asian cuisine."
+          "text": "[Difference between biryani and pilau] l Halim Sharar mentions that biryani has a stronger curried taste due to a greater amount of spices. According to Delhi-based historian Sohail Hashmi, pilau tends to be plainer than biryani, and consists of meat or vegetables cooked with rice with the bottom layered with potatoes or onions. Biryani contains more gravy, and is often cooked longer, leaving the meat (and vegetables, if present) more tender, and the rice more flavoured."
         },
         {
-          "doc_id": "wiki_pilaf",
-          "text": "[Preparation] Rice is sautéed and then cooked in broth with spices. It is generally less complex than biryani."
+          "doc_id": "wiki_biryani",
+          "text": "[In the Indian subcontinent] Students biryani in Karachi, Lucky biryani in Bandra, Mumbai and Baghdadi biryani in Colaba, Mumbai. Biryanis are often specific to the Muslim communities where they originate; they are usually the defining dishes of those communities. In 2009, the Deccani Biryani Makers Association submitted 'Hyderabadi Biryani' for a geographical indication, but the attempt failed as they were unable to provide documentary evidence of its historical origin."
         }
       ]
     },
     {
       "query_id": "sa_002",
       "query": "What is the difference between naan and roti?",
-      "response": "Naan is a flatbread made with white or wheat flour and combined with a leavening agent, typically yeast, that develops air pockets contributing to its fluffy and soft texture. Roti, on the other hand, is a flatbread made with wheat flour and combined with a leavening agent, typically yeast, that develops air pockets contributing to its fluffy and soft texture.",
+      "response": "The main difference between naan and roti is that naan is a flatbread that is leavened, while roti is a round flatbread that is not leavened.",
       "retrieved_context": [
+        {
+          "doc_id": "wiki_roti",
+          "text": "[Introduction] unleavened. Naan from the Indian subcontinent, by contrast, is a yeast-leavened bread, as is kulcha. Like breads around the world, roti is a staple accompaniment to other foods."
+        },
+        {
+          "doc_id": "wiki_roti",
+          "text": "[Introduction] Roti is a round flatbread originating from the Indian subcontinent. It is commonly consumed in many South Asian, Southeast Asian, Caribbean, East African, and Southeast African countries. It is made from stoneground whole-wheat flour, known as atta, combined into a dough with added water. Its defining characteristic is that it is unleavened. Naan from the Indian subcontinent, by contrast, is a yeast-leavened bread, as is kulcha."
+        },
         {
           "doc_id": "wiki_naan",
           "text": "[Indonesia] In Indonesia , naan is a popular alternative to rice among the Indians , Arabs , Malays , Acehnese and the Minangkabaus , similar though not the same as roti or roti canai which was introduced from Tamils . This dish is known as roti naan or roti nan, and is cooked using Indonesian spices such as garlic."
         },
         {
           "doc_id": "wiki_naan",
-          "text": "[Introduction] Naan ( / n ɑː n / ) is a leavened , oven-baked or tawa -fried flatbread , that can also be baked in a tandoor . It is characterised by a light and fluffy texture and golden-brown spots from the baking process. Naan is used in many cuisines worldwide. Composed of white or wheat flour and combined with a leavening agent, typically yeast, naan dough develops air pockets that contribute to its fluffy and soft texture. Additional ingredients for crafting naan include warm water, salt, ghee and yogurt"
+          "text": "[Indian subcontinent] Tunuk was a light or thin bread, while Naan-e-Tanuri was a heavy bread and was baked in the tandoor. During India’s Mughal era in the 1520s, naan was a delicacy that only nobles and royal families enjoyed because of the lengthy process of making leavened bread and because the art of making naan was a revered skill known by few. The Ain-i-Akbari , a record of the third Mughal emperor’s reign, refers to naan being eaten with kebabs or kheema in it."
         },
         {
           "doc_id": "wiki_naan",
-          "text": "[Japan] After being promoted by Kandagawa Sekizai Shoukou in 1968, which is now the sole domestic manufacturer of tandoors, naan is now widely available in Indian-style curry restaurants in Japan, where naan is typically free-flow. Some restaurants bake ingredients such as cheese, garlic, onions, and potatoes into the naan, or cover it with toppings like a pizza."
-        },
-        {
-          "doc_id": "wiki_naan",
-          "text": "[Elsewhere] In 1799, the word naan was introduced into the English language by historian and clergyman William Tooke. Today, naan can be found worldwide in restaurants serving South Asian and Middle Eastern cuisine, and it is available in many supermarkets. Fusion cuisine has introduced new dishes that incorporate naan, including naan pizza and naan tacos and even huevos rancheros (an egg dish) served over naan. Naan pizza is a type of pizza where naan is used as the crust instead of the traditional pizza d"
-        },
-        {
-          "doc_id": "wiki_naan",
-          "text": "[Indian subcontinent] Naan spread to the Indian subcontinent during the Islamic Delhi Sultanate period. The earliest mention of naan in the region comes from the memoirs of Indo-Persian Sufi poet Amir Khusrau living in India during the 1300s AD. Khusrau mentions two kinds of naan eaten by Muslim nobles; Naan-e-Tunuk and Naan-e-Tanuri. Naan-e-Tunuk was a light or thin bread, while Naan-e-Tanuri was a heavy bread and was baked in the tandoor. During India’s Mughal era in the 1520s, naan was a delicacy that only nobles "
+          "text": "[Introduction] Naan ( / n ɑː n / ) is a leavened , oven-baked or tawa -fried flatbread , that can also be baked in a tandoor . It is characterised by a light and fluffy texture and golden-brown spots from the baking process. Naan is used in many cuisines worldwide. Composed of white or wheat flour and combined with a leavening agent, typically yeast, naan dough develops air pockets that contribute to its fluffy and soft texture."
         }
       ]
     },
     {
       "query_id": "sa_003",
       "query": "How is dosa batter traditionally prepared?",
-      "response": "Dosa batter is typically spread on a hot griddle or flat cooking surface and cooked until it reaches the desired texture.",
+      "response": "Dosa batter is traditionally prepared with less rice than gram (biri), as in Sri Lanka, dosa was introduced far abroad since the early 18th century, by the migration of the Indian Tamil diaspora to Southeast Asia and later in the Western world, and through the worldwide popularisation of Indian and Sri Lankan cuisines since the second half of the 20th century.",
       "retrieved_context": [
         {
           "doc_id": "wiki_dosa",
-          "text": "[Preparation] The batter is spread on a hot griddle or flat cooking surface and cooked until it reaches the desired texture. Dosa may be crisp or softer depending on style and preparation."
+          "text": "[Preparation] desired consistency. The batter is then ladled onto a hot tava or griddle greased with oil or ghee. It is spread out with the base of a ladle or a bowl to form a pancake. It can be made either thick like a pancake, or thin and crispy. A dosa is served hot, either folded in half or rolled like a wrap. It is usually served with chutney and sambar. The mixture of white grams and rice can be replaced with highly refined wheat flour or semolina."
         },
         {
           "doc_id": "wiki_dosa",
-          "text": "[Introduction] Dosa is a thin savory pancake or crepe strongly associated with South Indian cuisine. It is made from a fermented batter, usually based on rice and black gram."
+          "text": "[Introduction] A dosa (in Indian English) or thosai (in Malaysian English and Singapore English) is a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground black gram and rice. Dosas are served hot, often with chutney and sambar."
         },
         {
           "doc_id": "wiki_dosa",
-          "text": "[Serving style] Dosa is often eaten with chutneys and sambar. Some versions are filled, especially masala dosa with spiced potato filling."
+          "text": "[History] /Tarkari/Dalma or simple ones like Jaggery/Sugar. The batter consists of less rice than gram (biri). As in Sri Lanka, dosa was introduced far abroad since the early 18th century, by the migration of the Indian Tamil diaspora to Southeast Asia and later in the Western world, and through the worldwide popularisation of Indian and Sri Lankan cuisines since the second half of the 20th century."
         },
         {
           "doc_id": "wiki_dosa",
-          "text": "[Popularity] Dosa is widely eaten in South Asia and has spread far beyond its regional origins. It is commonly served for breakfast but may also be eaten at other times of day."
+          "text": "[Variations] Masala dosa is a roasted dosa served with potato curry, chutney, and sambar, while saada (plain) dosa is prepared with a lighter texture; paper dosa is a thin and crisp version. Rava dosa is made crispier using semolina. Newer versions include Chinese dosa, cheese dosa, paneer dosa, and pizza dosa. Though dosa is typically made with rice and lentils, other versions exist."
         },
         {
-          "doc_id": "wiki_naan",
-          "text": "[Myanmar] Naan bya ( Burmese : နံပြား ) in Myanmar is traditionally served at teahouses with tea or coffee as a breakfast item. It is round, soft, and blistered, often buttered, or with creamy pè byouk (boiled chickpeas ) cooked with onions spread on top, or dipped with Burmese curry ."
+          "doc_id": "wiki_dosa",
+          "text": "[History] n of the dosa is linked to Udupi, probably because of the dish's association with Udupi restaurants. The Karnataka dosa is traditionally softer and thicker; the thinner and crispier version of dosa, which became popular across India, was first made in present-day Tamil Nadu. A recipe for dosa can be found in Manasollasa, a 12th-century Sanskrit encyclopedia compiled by Someshvara III, who ruled from present-day Karnataka."
         }
       ]
     },
     {
       "query_id": "sa_004",
       "query": "What ingredients are used in a classic samosa and how is it cooked?",
-      "response": "Common ingredients include rice, meat or vegetables, yogurt, onions, herbs, and aromatic spices. Samosas are typically fried or baked and filled with spiced ingredients. They are often eaten as a snack or street food and are popular during gatherings and festive occasions.",
+      "response": "Classic samosas typically use diced and cooked or mashed boiled potatoes, onions, green peas, lentils, ginger, spices, and green chillies. They are filled with this combination of ingredients and then deep-fried until they reach a golden-brown color. This cooking method results in a crispy exterior while maintaining a soft interior, giving samosas their distinctive texture.",
       "retrieved_context": [
         {
           "doc_id": "wiki_samosa",
-          "text": "[Introduction] Samosa is a savory pastry, usually triangular, that is fried or baked and filled with spiced ingredients. It is one of the best-known snacks in South Asian cuisine."
+          "text": "[Indian subcontinent] In India, samosas are prepared with an all-purpose flour (locally known as maida) and stuffed with a filling, often a mixture of diced and cooked or mashed boiled potatoes, onions, green peas, lentils, ginger, spices and green chillies. A samosa can be either vegetarian or non-vegetarian, depending on the filling. The entire pastry is deep-fried in vegetable oil to a golden-brown colour. It is served hot, often as a chaat street food, with fresh chutneys."
         },
         {
           "doc_id": "wiki_samosa",
-          "text": "[Serving style] Samosa is often eaten as a snack or street food and is commonly served with chutney. It is also popular during gatherings and festive occasions."
+          "text": "[Introduction] A samosa () () is a fried Indian pastry with a savoury filling that mostly consists of vegetables like spiced potatoes, onions, and peas, but can include cheese such as paneer, meat or even fish. Its name originates from the Middle Persian word sambosag (سنبوسگ) (meaning 'triangular pastry'). It is made in different shapes, including triangular, cone, or crescent, depending on the region. Samosas are often accompanied by chutney, and have origins in medieval times or earlier."
         },
         {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
+          "doc_id": "wiki_samosa",
+          "text": "[Southeast Asia] Samosas are called samuza (စမူဆာ) in Burmese, and are an extremely popular street snack in Burma. Samosas are also used in a traditional Burmese salad called samuza thoke (စမူဆာသုပ်‌; lit. 'samosa salad'), a salad of cut samosa pieces with onions, cabbage, fresh mint, light potato and chickpea curry broth, masala, chili powder, salt and lime. In Indonesia, snacks similar similar to samosas include pastel, panada and epok-epok."
         },
         {
-          "doc_id": "wiki_biryani",
-          "text": "[Ingredients] Common ingredients include rice, meat or vegetables, yogurt, onions, herbs, and aromatic spices. Eggs or potatoes are included in some regional versions."
+          "doc_id": "wiki_samosa",
+          "text": "[History] h minced meat, almonds, pistachios, walnuts and spices, was served before the third course of pulao. Nimatnama-i-Nasiruddin-Shahi, a medieval Indian cookbook started for Ghiyath Shah, the ruler of the Malwa Sultanate in central India, mentions the art of making samosa. The Ain-i-Akbari, a 16th-century Mughal document, mentions the recipe for qottab, which it says, \"the people of Hindustan call sanbúsah\". The samosa gained its popularity for its savoury flavour and convenience."
         },
         {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Lamprais] A Dutch Burgher -influenced dish, lamprais is rice boiled in stock accompanied by frikkadels ( frikadeller meatballs), a mixed-meat curry, blachan, aubergine curry, and seeni sambol . All of this is then wrapped in a banana leaf and baked in an oven. Lamprais is ideal for special occasions with large gatherings considering its richness and the time it takes to prepare. Lamprais is cooked twice; first the rice and the entrees are cooked separately and later what is already cooked is wrapped in a "
+          "doc_id": "wiki_samosa",
+          "text": "[Indian subcontinent] than in other parts of India, with a filling of cooked diced potato, peanuts, and sometimes raisins. In Hyderabad, a smaller version with a thicker pastry crust and minced meat filling, called lukhmi, is eaten. Both flat (triangular) and full-shaped (tetrahedron/triangular pyramid) samosas are popular in Bangladesh. A Bengali version of the full-shaped samosa is called a shingara (সিঙাড়া)  and is normally smaller than the standard variety."
         }
       ]
     },
     {
       "query_id": "sa_005",
       "query": "What is cardamom and what are the differences between green and black cardamom?",
-      "response": "Cardamom is a spice made from the seeds of several plants in the genus Elettaria and Amomum in the family Zingiberaceae. It is native to the Indian subcontinent and Indonesia. Green cardamom is one of the most expensive spices by weight, but little is needed to impart flavor. It is best stored in the pod, as exposed or ground seeds quickly lose",
+      "response": "Cardamom is a spice made from the seeds of several plants in the genus Elettaria and Amomum in the family Zingiberaceae. It is native to the Indian subcontinent and Indonesia. Green cardamom is used as a spice, a masticatory, or is smoked, while black cardamom is one of the most expensive spices by weight, but little is needed to impart flavor. It is best stored in the pod, as exposed or ground seeds quickly lose its flavor.",
       "retrieved_context": [
         {
           "doc_id": "wiki_cardamom",
-          "text": "[Introduction] Cardamom ( / ˈ k ɑːr d ə m ə m / ), sometimes cardamon or cardamum , is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae . Both genera are native to the Indian subcontinent and Indonesia . They are recognized by their small seed pods: triangular in cross-section and spindle-shaped, with a thin, papery outer shell and small, black seeds; Elettaria pods are light green and smaller, while Amomum pods are dark brown and larger. Species used"
-        },
-        {
-          "doc_id": "wiki_cardamom",
-          "text": "[Food and beverage] Cardamom has a strong taste, with an aromatic, resinous fragrance. Black cardamom has a more smoky – though not bitter – aroma, with a coolness comparable to mint. Green cardamom is one of the most expensive spices by weight, but little is needed to impart flavor. It is best stored in the pod, as exposed or ground seeds quickly lose their flavor. Grinding the pods and seeds together lowers both the quality and the price. For recipes requiring whole cardamom pods, a generally accepted equivalent "
-        },
-        {
-          "doc_id": "wiki_cardamom",
-          "text": "[History] Cardamom has been used in flavorings and food over centuries. During the Middle Ages, cardamom dominated the trade industry. The Arab states played a significant role in the trade of Indian spices, including cardamom. It is now ranked the third most expensive spice following saffron and vanilla . Cardamom production began in ancient times, and has been referred to in ancient Sanskrit texts as ela . The Babylonians and Assyrians used the spice early on, and trade in cardamom opened up along land "
-        },
-        {
-          "doc_id": "wiki_cardamom",
-          "text": "[Trade] Cardamom production's demand and supply patterns of trade are influenced by price movements, nationally and internationally, in 5 to 6-year cycles. Importing leaders mentioned are Saudi Arabia and Kuwait , while other significant importers include Germany , Iran , Japan , Jordan , Pakistan , Qatar , United Arab Emirates , the UK , and the former USSR . According to the United Nations Conference on Trade and Development , 80 percent of cardamom's total consumption occurs in the Middle East . In t"
+          "text": "[Food and beverage] Cardamom has a strong taste, with an aromatic, resinous fragrance. Black cardamom has a more smoky – though not bitter – aroma, with a coolness comparable to mint. Green cardamom is one of the most expensive spices by weight, but little is needed to impart flavor. It is best stored in the pod, as exposed or ground seeds quickly lose their flavor. Grinding the pods and seeds together lowers both the quality and the price."
         },
         {
           "doc_id": "wiki_cardamom",
           "text": "[Uses] Both forms of cardamom are used as flavorings and cooking spices in food and drink. E. cardamomum (green cardamom) is used as a spice, a masticatory , or is smoked."
+        },
+        {
+          "doc_id": "wiki_cardamom",
+          "text": "[Introduction] Cardamom ( / ˈ k ɑːr d ə m ə m / ), sometimes cardamon or cardamum , is a spice made from the seeds of several plants in the genera Elettaria and Amomum in the family Zingiberaceae . Both genera are native to the Indian subcontinent and Indonesia . They are recognized by their small seed pods: triangular in cross-section and spindle-shaped, with a thin, papery outer shell and small, black seeds; Elettaria pods are light green and smaller, while Amomum pods are dark brown and larger."
+        },
+        {
+          "doc_id": "wiki_cardamom",
+          "text": "[Food and beverage] both types of cardamom are widely used in both sweet and savoury dishes, particularly in the south. Both are frequent components in such spice mixes as Indian and Nepali masalas , Thai curry pastes, and Yemeni hawaij . Green cardamom is often used in traditional Indian sweets and in masala chai (spiced tea). Both are also often used as a garnish in basmati rice and other dishes. Individual seeds are sometimes chewed and used in much the same way as chewing gum."
+        },
+        {
+          "doc_id": "wiki_cardamom",
+          "text": "[Introduction] lack seeds; Elettaria pods are light green and smaller, while Amomum pods are dark brown and larger. Species used for cardamom are native throughout tropical and subtropical Asia. The first references to cardamom are found in Sumer , and in Ayurveda . In the 21st century, it is cultivated mainly in India , Indonesia , and Guatemala ."
         }
       ]
     },
     {
       "query_id": "sa_006",
       "query": "How does Sri Lankan cuisine differ from South Indian cuisine?",
-      "response": "Sri Lankan cuisine differs from South Indian cuisine in terms of the use of certain ingredients like fish, coconut, and lemongrass.",
+      "response": "Sri Lankan cuisine differs from South Indian cuisine in that it uses a greater variety of spices, particularly Sri Lankan cinnamon and black pepper, while incorporating ingredients like Maldives fish, goraka (Garcinia cambogia), pandan leaf, lemongrass, and jaggery made from kithul palm syrup. Additionally, Sri Lankan cuisine emphasizes seafood, with Tamil cuisine being similar but sharing similarities with South Indian cuisine.",
       "retrieved_context": [
         {
           "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Introduction] Sri Lankan cuisine is known for its particular combinations of herbs, spices, fish, vegetables, rices , and fruits. The cuisine is highly centered around many varieties of rice, as well as coconut which is a ubiquitous plant throughout the country. Seafood also plays a significant role in the cuisine, be it fresh fish or preserved fish. As a country that was a hub in the historic oceanic silk road , contact with foreign traders brought new food items and cultural influences in addition to the lo"
-        },
-        {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Sri Lankan Chinese] Chinese restaurants have been staple dining-out options for many Sri Lankans, especially in Colombo, since the 1940s. Over time, the cuisine was adapted to suit the local palate, and Sri Lankan Chinese food was born. Several dishes and condiments - such as Hot butter cuttlefish and Chinese Chili paste - have become firm local favorites and are commonly found in most restaurants and supermarkets."
+          "text": "[Introduction] local traditions of the country's ethnic groups, all of which have helped shape Sri Lankan cuisine. Influences from Indian (particularly South Indian ), Indonesian and Dutch cuisines are most evident with Sri Lankan cuisine sharing close ties to other neighbouring South and Southeast Asian cuisines . Sri Lanka is historically famous for its cinnamon. The 'true cinnamon' tree, or Cinnamomum verum , used to be botanically named Cinnamomum zeylanicum to reflect its Sri Lankan origins."
         },
         {
           "doc_id": "wiki_sri_lankan_cuisine",
           "text": "[Rice and curry] The central feature of Sri Lankan cuisine is boiled or steamed rice, served with a curry of fish or meat , along with other curries made with vegetables , lentils , or fruits . Dishes are accompanied by pickled fruits or vegetables, chutneys , and sambols . Coconut sambol is especially common, a paste of ground coconut mixed with chili peppers , dried Maldives fish , and lime juice ."
         },
         {
-          "doc_id": "wiki_indian_cuisine",
-          "text": "[Regional diversity] Indian cuisine varies strongly by region, with distinct North Indian, South Indian, East Indian, and West Indian traditions. Different areas use locally available grains, vegetables, fruits, spices, and cooking methods."
+          "doc_id": "wiki_sri_lankan_cuisine",
+          "text": "[Introduction] Sri Lankan cuisine is known for its particular combinations of herbs, spices, fish, vegetables, rices , and fruits. The cuisine is highly centered around many varieties of rice, as well as coconut which is a ubiquitous plant throughout the country. Seafood also plays a significant role in the cuisine, be it fresh fish or preserved fish."
         },
         {
           "doc_id": "wiki_sri_lankan_cuisine",
           "text": "[Regions] In areas located on the island's coasts, seafood is a standard feature of the local dishes. Tamil cuisine , especially in Jaffna , shares many similarities with South Indian cuisine . Kandyan Sinhalese cooking is based on local ingredients, including hill vegetables and fruits."
+        },
+        {
+          "doc_id": "wiki_sri_lankan_cuisine",
+          "text": "[Introduction] te in comparison to Cinnamomum cassia , which is more common in some other Southeast Asian cuisines. Contrasting the local cuisine with those of neighbouring regions, Sri Lankan cuisine is characterized by unique spice blends with heavy use of Sri Lankan cinnamon and black pepper, as well as by the use of ingredients such as Maldives fish , goraka ( Garcinia cambogia ), pandan leaf , lemongrass , and jaggery made from kithul palm syrup."
         }
       ]
     },
     {
       "query_id": "sa_007",
       "query": "What is the difference between a curry and a masala?",
-      "response": "A curry is a broad term for many sauced or spiced dishes, especially those associated with South Asian cuisines. It does not refer to a single standardized dish.",
+      "response": "A curry is a dish that uses a variety of spices and seasonings, such as ginger, garlic, onions, turmeric, cumin, coriander, and chili peppers, all combined in a hot soup or stew. On the other hand, a masala is a spice blend that includes dried or fresh spices, such as cinnamon, cardamom, cloves, nutmeg, and saffron, mixed together in a hot tea or drink. Both types of curries can be made with various meats, seafood, and vegetables, but they differ in their use of spices and preparation methods.",
       "retrieved_context": [
         {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Rice and curry] The central feature of Sri Lankan cuisine is boiled or steamed rice, served with a curry of fish or meat , along with other curries made with vegetables , lentils , or fruits . Dishes are accompanied by pickled fruits or vegetables, chutneys , and sambols . Coconut sambol is especially common, a paste of ground coconut mixed with chili peppers , dried Maldives fish , and lime juice ."
+          "doc_id": "wiki_curry",
+          "text": "[Types] dish from Southeast Asia which uses coconut milk and spice pastes, and is commonly eaten over rice. Curries may contain fish, meat, poultry, or shellfish, either alone or in combination with vegetables. Others are vegetarian. A masala mixture is a combination of dried or dry-roasted spices commonly homemade for some curries. Dry curries are cooked using small amounts of liquid, which is allowed to evaporate, leaving the other ingredients coated with the spice mixture."
+        },
+        {
+          "doc_id": "wiki_masala",
+          "text": "[Spice] Masala (spice), any of the many spice mixes used in the cuisine of the Indian subcontinent Masala chai, a flavored tea beverage Masala dabba, container to store spices Masala incense, Indian incense using a spice mix Masala omelette, an Indian omelette Garam masala, a hot Indian spice mix Curry powder, a ready-made ingredient first sold by Indian merchants to British traders Chicken tikka masala, a dish consisting of roasted marinated chicken pieces in a spiced curry sauce Paneer tikka masala, a"
+        },
+        {
+          "doc_id": "wiki_dosa",
+          "text": "[Variations] Masala dosa is a roasted dosa served with potato curry, chutney, and sambar, while saada (plain) dosa is prepared with a lighter texture; paper dosa is a thin and crisp version. Rava dosa is made crispier using semolina. Newer versions include Chinese dosa, cheese dosa, paneer dosa, and pizza dosa. Though dosa is typically made with rice and lentils, other versions exist."
+        },
+        {
+          "doc_id": "wiki_butter_chicken",
+          "text": "[History] utine, wraps, roti, or rolls, while in Australia and New Zealand, it is also eaten as a pie filling. The curry is common in India, Bangladesh, Pakistan, and many other countries where a South Asian diaspora is present. Due to its popularity outside of India, it is sometimes mistakenly assumed to be of Western origin (like chicken tikka masala, which it is sometimes confused with). In 2024, the owners of restaurant sued a rival restaurant in a dispute over credit for inventing the dish."
         },
         {
           "doc_id": "wiki_curry",
-          "text": "[Introduction] Curry is a broad term for many sauced or spiced dishes, especially those associated with South Asian cuisines. It does not refer to a single standardized dish."
-        },
-        {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
-        },
-        {
-          "doc_id": "wiki_curry",
-          "text": "[Meaning of the term] The English word curry became common during the colonial period as a general label for many South Asian dishes. Local cuisines often use more specific names for particular dishes."
-        },
-        {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Lamprais] A Dutch Burgher -influenced dish, lamprais is rice boiled in stock accompanied by frikkadels ( frikadeller meatballs), a mixed-meat curry, blachan, aubergine curry, and seeni sambol . All of this is then wrapped in a banana leaf and baked in an oven. Lamprais is ideal for special occasions with large gatherings considering its richness and the time it takes to prepare. Lamprais is cooked twice; first the rice and the entrees are cooked separately and later what is already cooked is wrapped in a "
+          "text": "[East Asia] Japanese curry is usually eaten as karē raisu – curry, rice, and often pickled vegetables, served on the same plate and eaten with a spoon, a common lunchtime canteen dish. It is less spicy and seasoned than Indian and Southeast Asian curries, being more of a thick stew than a curry."
         }
       ]
     },
     {
       "query_id": "sa_008",
       "query": "What are the key features of Pakistani cuisine compared to North Indian cuisine?",
-      "response": "Pakistani cuisine emphasizes bold flavors, uses more spices, and serves a variety of meat, rice, lentils, and bread dishes. This contrasts with North Indian cuisine which focuses on less spiciness, uses fewer spices, and typically serves vegetarian dishes.",
+      "response": "Key features of Pakistani cuisine include bold flavors, spice use, and a wide range of meat, rice, lentil, and bread dishes. This contrasts with North Indian cuisine which emphasizes local grains, vegetables, fruits, spices, and cooking methods.",
       "retrieved_context": [
+        {
+          "doc_id": "wiki_pakistani_cuisine",
+          "text": "[Regional cuisines] Pakistani cuisine varies by region, including Punjabi, Sindhi, Balochi, Pashtun, Kashmiri, and northern mountain traditions. Different regions emphasize different ingredients, breads, meats, and preparation methods."
+        },
         {
           "doc_id": "wiki_pakistani_cuisine",
           "text": "[Introduction] Pakistani cuisine reflects a mix of South Asian, Persian, Central Asian, and Mughal influences. It is known for bold flavors, spice use, and a wide range of meat, rice, lentil, and bread dishes."
@@ -230,124 +234,120 @@
           "text": "[Regional diversity] Indian cuisine varies strongly by region, with distinct North Indian, South Indian, East Indian, and West Indian traditions. Different areas use locally available grains, vegetables, fruits, spices, and cooking methods."
         },
         {
-          "doc_id": "wiki_pakistani_cuisine",
-          "text": "[Regional cuisines] Pakistani cuisine varies by region, including Punjabi, Sindhi, Balochi, Pashtun, Kashmiri, and northern mountain traditions. Different regions emphasize different ingredients, breads, meats, and preparation methods."
+          "doc_id": "wiki_dosa",
+          "text": "[History] 12th-century Sanskrit encyclopedia compiled by Someshvara III, who ruled from present-day Karnataka. The dosa arrived in Mumbai with the opening of Udupi restaurants in the 1930s. After India's independence in 1947, South Indian cuisine became gradually popular in North India. In New Delhi, the Madras Hotel in Connaught Place became one of the first restaurants to serve South Indian cuisine."
         },
         {
-          "doc_id": "wiki_indian_cuisine",
-          "text": "[Introduction] Indian cuisine is diverse and reflects a long history of cultural interaction, regional development, and culinary exchange across the Indian subcontinent. It includes many regional cuisines with different ingredients, flavors, and cooking methods."
-        },
-        {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Regions] In areas located on the island's coasts, seafood is a standard feature of the local dishes. Tamil cuisine , especially in Jaffna , shares many similarities with South Indian cuisine . Kandyan Sinhalese cooking is based on local ingredients, including hill vegetables and fruits."
+          "doc_id": "wiki_curry",
+          "text": "[Introduction] the New World. The Mughal empire brought new subtly-spiced dishes, especially to the north of India. During the British Raj, Anglo-Indian cuisine developed, leading to Hannah Glasse's 18th century recipe for \"currey the India way\" in England. Curry was then spread in the 19th century by indentured Indian sugar workers to the Caribbean, and by British traders to Japan. Further exchanges around the world made curry a fully international dish. Many types of curry exist in different countries."
         }
       ]
     },
     {
       "query_id": "sa_009",
       "query": "What is butter chicken and where did it originate?",
-      "response": "Butter chicken originated in Sri Lanka, specifically in Colombo, since the 1940s.",
+      "response": "Butter chicken is a curry made from chicken cooked in a spiced tomato and butter-based (makhan) gravy. Butter chicken originated in Delhi, India.",
       "retrieved_context": [
         {
+          "doc_id": "wiki_butter_chicken",
+          "text": "[Introduction] Butter chicken or Murgh Makhani (Hindi : मुर्ग मखनी) is a curry made from chicken cooked in a spiced tomato and butter-based (makhan) gravy. The gravy is known for its creamy, rich texture. It is similar to chicken tikka masala, which uses a tomato paste. The dish originated in Delhi, India."
+        },
+        {
+          "doc_id": "wiki_butter_chicken",
+          "text": "[History] was made \"by chance\" by mixing leftover tandoori chicken in a tomato sauce, rich in butter (makhan). In 1975, the English phrase \"butter chicken\" curry first appeared in print, as a specialty of the house at Gaylord Indian restaurant in Manhattan. In Canada and the Caribbean, it can be found as a filling in pizza, poutine, wraps, roti, or rolls, while in Australia and New Zealand, it is also eaten as a pie filling."
+        },
+        {
           "doc_id": "wiki_tandoori_chicken",
-          "text": "[Preparation] Chicken is marinated in yogurt and spices such as turmeric, cumin, and chili powder. It is then cooked at high temperatures in a tandoor oven."
+          "text": "[History] . Tandoori chicken as a dish originated in the Punjab before the independence of partition of India. In the late 1940s, tandoori chicken was popularised at Moti Mahal in the locality of Daryaganj in New Delhi by Kundan Lal Jaggi, Kundan Lal Gujral and Thakur Das Magu, who were Punjabi Hindu migrants from Peshawar as well as the founders of the Moti Mahal restaurant."
         },
         {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Sri Lankan Chinese] Chinese restaurants have been staple dining-out options for many Sri Lankans, especially in Colombo, since the 1940s. Over time, the cuisine was adapted to suit the local palate, and Sri Lankan Chinese food was born. Several dishes and condiments - such as Hot butter cuttlefish and Chinese Chili paste - have become firm local favorites and are commonly found in most restaurants and supermarkets."
+          "doc_id": "wiki_tandoori_chicken",
+          "text": "[History] Chicken roasted in tandoor-like ovens is documented in the Harappan civilisation of the Bronze Age of Indian subcontinent, as early as 3000 BC. Much later, the Sushruta Samhita records meat being cooked in an oven (kandu) after being seasoned with black mustard (rai) powder and fragrant spices. Tandoori chicken as a dish originated in the Punjab before the independence of partition of India."
         },
         {
-          "doc_id": "wiki_samosa",
-          "text": "[History and spread] The dish has roots in historical culinary exchange and later became well established across South Asia. Many regional forms now exist in both filling and preparation style."
-        },
-        {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
-        },
-        {
-          "doc_id": "wiki_indian_cuisine",
-          "text": "[History] The cuisine developed over thousands of years, beginning with early agricultural traditions in the Indian subcontinent. Later influences from Persian, Central Asian, Portuguese, and British contacts contributed new foods, techniques, and ingredients. Ingredients such as tomatoes, potatoes, peanuts, squash, and chili peppers were introduced during the colonial period and became widely used."
+          "doc_id": "wiki_butter_chicken",
+          "text": "[History] The curry was allegedly developed at the Moti Mahal restaurant in the Daryaganj neighbourhood of Old Delhi in the 1950s, after the Partition of India by Kundan Lal Jaggi and Kundan Lal Gujral, who were both Punjabi Hindu refugees from Peshawar, in the North-West Frontier Province of British India. The curry was made \"by chance\" by mixing leftover tandoori chicken in a tomato sauce, rich in butter (makhan)."
         }
       ]
     },
     {
       "query_id": "sa_010",
       "query": "How is tandoori chicken traditionally prepared?",
-      "response": "Tandoori chicken is prepared by marinating chicken in yogurt and spices such as turmeric, cumin, and chili powder, which is then cooked at high temperatures in a tandoor oven.",
+      "response": "Tandoori chicken is traditionally prepared by first skinning raw chicken parts, seasoning them with a mix of yogurt and tandoori masala, and then cooking them in a tandoor oven at high temperatures.",
       "retrieved_context": [
         {
           "doc_id": "wiki_tandoori_chicken",
-          "text": "[Preparation] Chicken is marinated in yogurt and spices such as turmeric, cumin, and chili powder. It is then cooked at high temperatures in a tandoor oven."
+          "text": "[Introduction] Tandoori chicken is a dish made from chicken marinated in yogurt and spices and roasted in a tandoor, a cylindrical clay oven. The dish is now popular worldwide. The modern form of the dish was popularised by the Moti Mahal restaurant in New Delhi, India in the late 1940s."
         },
         {
-          "doc_id": "wiki_naan",
-          "text": "[Myanmar] Naan bya ( Burmese : နံပြား ) in Myanmar is traditionally served at teahouses with tea or coffee as a breakfast item. It is round, soft, and blistered, often buttered, or with creamy pè byouk (boiled chickpeas ) cooked with onions spread on top, or dipped with Burmese curry ."
+          "doc_id": "wiki_butter_chicken",
+          "text": "[Preparation] Chicken is marinated for several hours in a mixture of lemon juice, dahi (yogurt), Kashmiri red chilli, salt, garam masala, ginger paste, and garlic paste. The marinated chicken is cooked in a tandoor (traditional clay oven), but may be grilled, oven-roasted, or pan-fried. It is served in a mild curry sauce that includes butter. The sauce is a tomato, garlic, and ginger-based sauce that is simmered until smooth and much of the water has evaporated."
         },
         {
-          "doc_id": "wiki_bangladeshi_cuisine",
-          "text": "[Cooking style] The cuisine includes curries, bhortas, rice dishes, vegetable preparations, and lentil-based foods. Flavor often comes from spice blends, mustard, and careful balancing of richness and heat."
+          "doc_id": "wiki_tandoori_chicken",
+          "text": "[History] Chicken roasted in tandoor-like ovens is documented in the Harappan civilisation of the Bronze Age of Indian subcontinent, as early as 3000 BC. Much later, the Sushruta Samhita records meat being cooked in an oven (kandu) after being seasoned with black mustard (rai) powder and fragrant spices. Tandoori chicken as a dish originated in the Punjab before the independence of partition of India."
         },
         {
-          "doc_id": "wiki_turmeric",
-          "text": "[Culinary] Turmeric is one of the key ingredients in many Asian dishes, imparting a mustard-like, earthy aroma and pungent, slightly bitter flavor to foods. It is used mostly in savory dishes, but also is used in some sweet dishes, such as the Lebanese cake sfouf . In India, turmeric leaf is used to prepare special sweet dishes, patoleo , by layering rice flour and coconut - jaggery mixture on the leaf, then closing and steaming it in a special utensil ( chondrõ ). Most turmeric is used in the form of rhiz"
+          "doc_id": "wiki_tandoori_chicken",
+          "text": "[Cuisine] Tandoori chicken can be eaten as a starter or appetiser, or as a main course, often served with naan flatbread. It is also used as the base of numerous cream-based curries, such as butter chicken."
         },
         {
-          "doc_id": "wiki_indian_cuisine",
-          "text": "[Global influence] Indian cuisine spread internationally through migration and cultural exchange. Curries and tandoor-based dishes are among the best-known Indian foods outside India."
+          "doc_id": "wiki_tandoori_chicken",
+          "text": "[Preparation] Raw chicken parts are skinned then marinated in a mixture of dahi (yogurt) and tandoori masala, a spice blend. They are seasoned and coloured with cayenne pepper, red chilli powder, or Kashmiri red chilli powder as well as turmeric or food colouring. The marinated chicken is placed on skewers and cooked at high temperatures in a tandoor oven, which is heated with charcoal or wood, which adds to the smoky flavour."
         }
       ]
     },
     {
       "query_id": "sa_011",
       "query": "What is dal and why is it important in South Asian cuisine?",
-      "response": "Dal is a traditional South Asian dish made from ground gram flour, vegetables, and spices. It's often served with rice or flatbread and is considered a primary source of protein in vegetarian diets.",
+      "response": "Dal is a popular South Asian dish consisting of dried, split pulses (such as lentils, peas, and beans). It is an essential component of many Indian and Pakistani cuisines, particularly in South Asia. Dal is known for its versatility, being used in various forms like sambar, parippu, and chana masala. Its importance lies in its role as a staple food in South Asian diets, making it a significant contributor to the country's culinary heritage.",
       "retrieved_context": [
         {
           "doc_id": "wiki_dal",
-          "text": "[Usage] Dal is typically cooked with spices and served with rice or flatbread. It is a primary source of protein in vegetarian diets."
+          "text": "[Introduction] In Indian cuisine, dal (also spelled daal or dhal  pronunciation: [d̪aːl]) are dried, split pulses (e.g., lentils, peas, and beans) that do not require soaking before cooking. India is the largest producer of pulses in the world. The term is also used for various soups prepared from these pulses. These pulses are among the leading  staple foods in South Asian countries, and form an important part of the cuisines of the Indian subcontinent."
         },
         {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Staple foods] Dal bhat is one of the best-known staple meals, usually consisting of rice, lentil soup, and side dishes. Vegetables, pickles, flatbreads, and dumplings such as momo are also common."
+          "doc_id": "wiki_dal",
+          "text": "[Use] t combinations, to which other ingredients, such as spices and nuts (commonly cashews) may be added. Dal preparations are eaten with rice, chapati and naan on the Indian subcontinent. The manner in which it is cooked and presented varies by region. In South India, dal is often called \"paruppu\". It is primarily used to make a dish called sambar. It is also used to make parippu that is mixed with charu and rice."
         },
         {
-          "doc_id": "wiki_samosa",
-          "text": "[Introduction] Samosa is a savory pastry, usually triangular, that is fried or baked and filled with spiced ingredients. It is one of the best-known snacks in South Asian cuisine."
+          "doc_id": "wiki_dal",
+          "text": "[Common ingredients] gal (moog dal, (মুগ ডাল)). It is used in parts of South India, such as in the Tamil dish ven pongal. Roasted and lightly salted or spiced mung bean is a popular snack in most parts of India. Urad dal, sometimes referred to as \"black gram\", is a primary ingredient of the south Indian dishes idli and dosa. It is one of the main ingredients of East Indian (Odia and Bengali or Assamese) bori, sun-dried dumplings. The Punjabi version is dal makhani."
         },
         {
-          "doc_id": "wiki_dosa",
-          "text": "[Popularity] Dosa is widely eaten in South Asia and has spread far beyond its regional origins. It is commonly served for breakfast but may also be eaten at other times of day."
+          "doc_id": "wiki_dal",
+          "text": "[Use] dian subcontinent. Dal is frequently eaten with flatbreads, such as rotis or chapatis, or with rice. The latter combination is called dal bhat in Nepali, Gujarati, and various other Indian languages. In addition, certain types of dal are fried, salted, and eaten as a dry snack, and a variety of savory snacks are made by frying a paste made from soaked and ground dals in different combinations, to which other ingredients, such as spices and nuts (commonly cashews) may be added."
         },
         {
-          "doc_id": "wiki_sri_lankan_cuisine",
-          "text": "[Lamprais] A Dutch Burgher -influenced dish, lamprais is rice boiled in stock accompanied by frikkadels ( frikadeller meatballs), a mixed-meat curry, blachan, aubergine curry, and seeni sambol . All of this is then wrapped in a banana leaf and baked in an oven. Lamprais is ideal for special occasions with large gatherings considering its richness and the time it takes to prepare. Lamprais is cooked twice; first the rice and the entrees are cooked separately and later what is already cooked is wrapped in a "
+          "doc_id": "wiki_dal",
+          "text": "[Common ingredients] s the most popular dal. It is prepared similarly to dals found in India, but may be used in recipes. The whole dried pea is called matar or matar dal in India. The whole dried yellow pea is the main ingredient in the common Bengali street food ghugni. Split mung beans (mung dal) is by far the most popular in Bangladesh and West Bengal (moog dal, (মুগ ডাল)). It is used in parts of South India, such as in the Tamil dish ven pongal."
         }
       ]
     },
     {
       "query_id": "sa_012",
       "query": "What is the difference between biryani and pilaf?",
-      "response": "Biryani is a rice dish made with rice, spices, and meat, while pilaf is a rice dish made with rice, spices, and water.",
+      "response": "Biryani is a dish made with two layers of rice with meat or vegetables in the middle, while pilaf is a dish made with only one layer of rice.",
       "retrieved_context": [
         {
           "doc_id": "wiki_biryani",
-          "text": "[Regional forms] There are many regional varieties of biryani across the Indian subcontinent. The dish is popular in everyday dining as well as festivals and celebrations."
+          "text": "[Difference between biryani and pilau] ice with a layer of meat (and vegetables, if present) in the middle, while the pilau is not layered. Further, in modern usage, biryani is the primary dish in a meal, while pilau is usually a secondary accompaniment to a larger meal; and biryanis have more complex and stronger spices than pilaus."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Preparation] Biryani is often prepared by layering rice with spiced ingredients and finishing the cooking together. Different styles vary in seasoning, assembly, and cooking technique."
+          "text": "[Difference between biryani and pilau] oked longer, leaving the meat (and vegetables, if present) more tender, and the rice more flavoured. Biryani is cooked with additional dressings and often has a light layer of scorched rice at the bottom. The cookery author Pratibha Karan states that while the terms are often applied arbitrarily, the main distinction is that a biryani consists of two layers of rice with a layer of meat (and vegetables, if present) in the middle, while the pilau is not layered."
         },
         {
           "doc_id": "wiki_biryani",
-          "text": "[Introduction] Biryani is a rice dish made with rice, spices, and usually meat, although vegetarian versions also exist. It is one of the best-known dishes associated with South Asian cuisine."
+          "text": "[Difference between biryani and pilau] h of long-grained rice with meat or vegetables, and are sometimes \"almost impossible to tell apart\". However, pilau is usually a side dish, biryani a \"centre piece\" with its own sides; and pilau is a one-pot dish, while biryani's rice and meat can be cooked separately."
         },
         {
-          "doc_id": "wiki_nepali_cuisine",
-          "text": "[Regional diversity] Food differs between the plains, hills, and Himalayan regions because of climate, agriculture, and local traditions. Ingredients and preparation methods change according to what is available locally."
+          "doc_id": "wiki_biryani",
+          "text": "[Difference between biryani and pilau] l Halim Sharar mentions that biryani has a stronger curried taste due to a greater amount of spices. According to Delhi-based historian Sohail Hashmi, pilau tends to be plainer than biryani, and consists of meat or vegetables cooked with rice with the bottom layered with potatoes or onions. Biryani contains more gravy, and is often cooked longer, leaving the meat (and vegetables, if present) more tender, and the rice more flavoured."
         },
         {
-          "doc_id": "wiki_pilaf",
-          "text": "[Preparation] Rice is sautéed and then cooked in broth with spices. It is generally less complex than biryani."
+          "doc_id": "wiki_hyderabadi_biryani",
+          "text": "[Origin] The exact origin of the dish is uncertain. Despite legends attributing it to the Nizam's chef, the biryani is of South Indian origin, derived from pilaf varieties brought to South Asia by Arab traders. Pulao may have been an army dish in medieval India. Armies would prepare a one-pot dish of rice with whichever meat was available. The distinction between \"pulao\" and \"biryani\" is arbitrary. Hyderabadi biryani incorporated Deccani or Telangana flavors of, perhaps in the Nizam's kitchen."
         }
       ]
     }
